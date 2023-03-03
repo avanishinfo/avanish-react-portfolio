@@ -39,15 +39,15 @@ const Qualification = () => {
                     : "qualification__content"}>
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Web Design</h3>
+                                <h3 className="qualification__title">Back-end</h3>
 
                                 <span className="qualification__subtitle">
-                                    Spain - Institute
+                                    Oracle - Certification
                                 </span>
 
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt"></i>
-                                    2021 - Present
+                                    2021
                                 </div>
                             </div>
 
@@ -66,15 +66,15 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification__title">Art Director</h3>
+                                <h3 className="qualification__title">Master in Compture Science</h3>
 
                                 <span className="qualification__subtitle">
-                                    Spain - Institute
+                                    India - UPTU
                                 </span>
 
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt"></i>
-                                    2021 - Present
+                                    2014
                                 </div>
                             </div>
 
@@ -82,15 +82,15 @@ const Qualification = () => {
 
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Web Development</h3>
+                                <h3 className="qualification__title">Bachelor in Compture Science</h3>
 
                                 <span className="qualification__subtitle">
-                                    Spain - Institute
+                                    India - MCRPV
                                 </span>
 
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt"></i>
-                                    2021 - Present
+                                    2011
                                 </div>
                             </div>
 
@@ -100,43 +100,22 @@ const Qualification = () => {
                             </div>
                         </div>
 
-                        <div className="qualification__data">
-                            <div></div>
-
-                            <div>
-                                <span className="qualification__rounder"></span>
-                                <span className="qualification__line"></span>
-                            </div>
-
-                            <div>
-                                <h3 className="qualification__title">Backend Expert</h3>
-
-                                <span className="qualification__subtitle">
-                                    Spain - Institute
-                                </span>
-
-                                <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt"></i>
-                                    2021 - 2***
-                                </div>
-                            </div>
-
-                        </div>
+                      
                     </div>
 
                     <div className={toggleState === 2 ? "qualification__content qualification__content-active" 
                     : "qualification__content"}>
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Project Deisgn</h3>
+                                <h3 className="qualification__title">Project Design</h3>
 
                                 <span className="qualification__subtitle">
-                                    Micro - India
+                                    IAMAI - India
                                 </span>
 
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt"></i>
-                                    2021 - Present
+                                    2022 - Present
                                 </div>
                             </div>
 
@@ -155,15 +134,15 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification__title">UX Designer</h3>
+                                <h3 className="qualification__title">Java Backend | Mobile App</h3>
 
                                 <span className="qualification__subtitle">
-                                    Apple Inc - India
+                                    NIC - India
                                 </span>
 
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt"></i>
-                                    2021 - Present
+                                    2019 - Present
                                 </div>
                             </div>
 
@@ -171,15 +150,15 @@ const Qualification = () => {
 
                     <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Web Desinger</h3>
+                                <h3 className="qualification__title">Mobile Developer</h3>
 
                                 <span className="qualification__subtitle">
-                                    Figma - India
+                                    Indian Company
                                 </span>
 
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt"></i>
-                                    2021 - Present
+                                    2014 - 2018
                                 </div>
                             </div>
 

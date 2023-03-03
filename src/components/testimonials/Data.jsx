@@ -6,21 +6,21 @@ export const Data = [
     {
         id: 1,
         image: Image1,
-        title: "Jhon Doe",
+        title: "Mithun Kr Ravi, Maass Pvt Ltd",
         description: "A really good job, all aspects of the project were followed step by step and with good results",
     },
     {
         id: 2,
         image: Image2,
-        title: "Avanish Singh",
-        description: "on-time project with good results",
+        title: "Mahesh, COO- Zotto Ltd ",
+        description: "oA really good job, all aspects of the project were followed step by step and with good results",
     
     },
     {
         id: 3,
         image: Image3,
-        title: "Ayan Singh",
-        description: "Great work!",
+        title: "Dhruv Sharma, Technicia Pvt Ltd",
+        description: "A really good job, all aspects of the project were followed step by step and with good results",
     
     }
 ]

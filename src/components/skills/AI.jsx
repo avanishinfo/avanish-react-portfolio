@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Frontend = () => {
+const AI = () => {
     return (
         <div className="skills__content">
-            <h3 className="skills__title">Frontend Developer</h3>
+            <h3 className="skills__title">Artificial Intelligence</h3>
 
             <div className="skills__box">
                 <div className="skills__group">
@@ -12,49 +12,7 @@ const Frontend = () => {
                         <i class='bx bx-badge-check' ></i>
 
                         <div>
-                            <h3 className="skills__name">Android</h3>
-                            <span className='skills__level'>Advance</span>
-                        </div>
-                    </div>
-
-                    
-                    <div className="skills__data">
-                        <i class='bx bx-badge-check' ></i>
-
-                        <div>
-                            <h3 className="skills__name">Dart</h3>
-                            <span className='skills__level'>Basic</span>
-                        </div>
-                    </div>
-
-                    
-                    <div className="skills__data">
-                        <i class='bx bx-badge-check' ></i>
-
-                        <div>
-                            <h3 className="skills__name">JavaScript</h3>
-                            <span className='skills__level'>Basic</span>
-                        </div>
-                    </div>
-                </div>
-
-                <div className="skills__group">
-                    
-                    <div className="skills__data">
-                        <i class='bx bx-badge-check' ></i>
-
-                        <div>
-                            <h3 className="skills__name">Kotlin</h3>
-                            <span className='skills__level'>Advance</span>
-                        </div>
-                    </div>
-
-                    
-                    <div className="skills__data">
-                        <i class='bx bx-badge-check' ></i>
-
-                        <div>
-                            <h3 className="skills__name">Git</h3>
+                            <h3 className="skills__name">Python</h3>
                             <span className='skills__level'>Intermediate</span>
                         </div>
                     </div>
@@ -64,7 +22,49 @@ const Frontend = () => {
                         <i class='bx bx-badge-check' ></i>
 
                         <div>
-                            <h3 className="skills__name">React</h3>
+                            <h3 className="skills__name">OpenCV</h3>
+                            <span className='skills__level'>Intermediate</span>
+                        </div>
+                    </div>
+
+                    
+                    <div className="skills__data">
+                        <i class='bx bx-badge-check' ></i>
+
+                        <div>
+                            <h3 className="skills__name">NLP</h3>
+                            <span className='skills__level'>Basic</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="skills__group">
+                    
+                    <div className="skills__data">
+                        <i class='bx bx-badge-check' ></i>
+
+                        <div>
+                            <h3 className="skills__name">Game</h3>
+                            <span className='skills__level'>Basic</span>
+                        </div>
+                    </div>
+
+                    
+                    <div className="skills__data">
+                        <i class='bx bx-badge-check' ></i>
+
+                        <div>
+                            <h3 className="skills__name">Blender</h3>
+                            <span className='skills__level'>Basic</span>
+                        </div>
+                    </div>
+
+                    
+                    <div className="skills__data">
+                        <i class='bx bx-badge-check' ></i>
+
+                        <div>
+                            <h3 className="skills__name">ThreeJS</h3>
                             <span className='skills__level'>Basic</span>
                         </div>
                     </div>
@@ -74,4 +74,4 @@ const Frontend = () => {
     )
 }
 
-export default Frontend
+export default AI

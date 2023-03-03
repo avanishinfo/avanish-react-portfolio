@@ -84,9 +84,9 @@ const Services = () => {
 
                 <div className="services__content">
                     <div>
-                        <i className="uil uil-arrow services__icon"></i>
+                        <i className="uil uil-edit services__icon"></i>
                         <h3 className="services__title">
-                            UI/UX <br /> Designer
+                            Web App <br /> & Backend
                         </h3>
                     </div>
 
@@ -151,9 +151,9 @@ const Services = () => {
 
                 <div className="services__content">
                     <div>
-                        <i className="uil uil-edit services__icon"></i>
+                        <i className="uil uil-phone services__icon"></i>
                         <h3 className="services__title">
-                            Visual <br /> Designer
+                            Mobile <br /> App
                         </h3>
                     </div>
 
