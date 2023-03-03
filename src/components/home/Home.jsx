@@ -13,32 +13,32 @@ import axios from 'axios';
 
 const Home = () => {
     
-    const onType = async (e) => {
-        const search = e.target.value 
+    // const onType = async (e) => {
+    //     const search = e.target.value 
 
-        axios.post('/api/v1/shorturl', {
-            "longUrl" : "https://www.avanish.dev/guitar",
-            "expirationDate": ""
-        })
-        .then(function (response) {
-            console.log(response);
-        })
-        .catch(function (error) {
-            console.log(error);
-        });
+    //     axios.post('/api/v1/shorturl', {
+    //         "longUrl" : "https://www.avanish.dev/guitar",
+    //         "expirationDate": ""
+    //     })
+    //     .then(function (response) {
+    //         console.log(response);
+    //     })
+    //     .catch(function (error) {
+    //         console.log(error);
+    //     });
 
-        console.table(result.data)
-    }
+    //     console.table(result.data)
+    // }
 
     return (
         <section className="home section" id="home">
             <div className="home__container container grid">
             
-                <div style={{marginTop: "4em", textAlign: "center"}}>
+                {/* <div style={{marginTop: "4em", textAlign: "center"}}>
                     <input type="text" placeholder='enter search' />
 
                     <button name='onClick' onClick={onType}>onClick</button>
-                </div>
+                </div> */}
 
                 <div className="home__content grid">
                     <Social />
