@@ -11,12 +11,13 @@
       "src": "maskable.png",
       "size": "192x192",
       "type": "image/png",
-      "purpose": "maskable any"
+      "purpose": "any maskable"
     },
     {
       "src": "logo144.png",
       "size": "144x144",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
       "src": "logo192.png",
